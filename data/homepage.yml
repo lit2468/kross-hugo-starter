@@ -47,10 +47,6 @@ experience:
     title: WI-FI Services
     company: ''
     duration: ''
-  - logo: images/experience/icon-1.png
-    title: TV/LCD
-    company: ''
-    duration: ''
 education:
   enable: true
   title: Education
