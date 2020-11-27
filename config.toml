@@ -27,7 +27,7 @@ description = "This is meta description"
 email = "sathya@legaciestechno.com"
 google_analitycs_id = "Your ID"
 home = "Home"
-logo = "images/logo.png"
+logo = "/images/hotel-jayaram.jpg"
 phone = "+91-9841106402"
 theme_color = "#41228e"
 [params.contact]
