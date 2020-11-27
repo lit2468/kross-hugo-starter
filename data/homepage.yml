@@ -36,13 +36,17 @@ experience:
     company: ''
     duration: ''
   - logo: images/experience/icon-2.png
-    title: UX & UI Designer
-    company: AUGMEDIX
-    duration: Mar 2009 - Aug 2014
+    title: 'Air Conditioning '
+    company: ''
+    duration: ''
   - logo: images/experience/icon-1.png
     title: Senior UI Designer
     company: THEMEFISHER
     duration: Sep 2014 - Present
+  - logo: ''
+    title: ''
+    company: ''
+    duration: ''
 education:
   enable: true
   title: Education
