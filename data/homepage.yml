@@ -29,7 +29,7 @@ skill:
     color: "#ffbcaa"
 experience:
   enable: true
-  title: Experience
+  title: Hotel Facilities
   item:
   - logo: images/experience/icon-1.png
     title: Room Services
