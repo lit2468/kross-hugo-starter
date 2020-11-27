@@ -48,7 +48,7 @@ experience:
     company: ''
     duration: ''
 education:
-  enable: true
+  enable: false
   title: Education
   item:
   - title: Marters in UX Design
